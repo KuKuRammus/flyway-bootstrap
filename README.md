@@ -1,4 +1,4 @@
-# Flyway bootstrap
+# Standalone Flyway bootstrap
 Type: PostgreSQL
 
 ## Installation
